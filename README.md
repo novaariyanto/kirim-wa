@@ -10,11 +10,10 @@
     menggunakan whatsva ? karena menurut saya ini penyedia layanan yang paling murah&nbsp; yang saya temukan.</p>
 <!-- /wp:paragraph -->
 
-<div class="gmr-box-content gmr-single">
 
 
 
-    <div class="entry-content entry-content-single" itemprop="text">
+ 
         <p>Whatsva adalah layanan pihak ketiga untuk mengelola pesan sehingga satu perangkat atau akun dapat dikelola
             oleh banyak pengguna. selain fitur multichat kita juga bisamendapatkan akses kirim pesan masal dengan
             whatsva kita hanya perlu membeli paket yang tersedia untuk mendapatkan fitur yang tersedia.</p>
@@ -107,8 +106,4 @@
 
         <p>Oke sekian tutorial dari saya. apabila kamu mengalami kendala atau ingin bertanya bisa menulis komentar
             dibawah. terimakasih telah membaca di artikel kami.</p>
-    </div><!-- .entry-content -->
-
-  
-
-</div>
+ 
