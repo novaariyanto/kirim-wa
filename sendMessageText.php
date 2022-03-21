@@ -3,8 +3,8 @@
 $curl = curl_init();
         $data = [
             "message" => "test bro",
-            "jid" => "6285156345912",
-            "apikey"=> "4YwLki3nduP8"
+            "jid" => "62895361034833",
+            "apikey"=> "yvBmbnghGusY"
         ];
         $payload = json_encode($data);
 
